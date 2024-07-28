@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/il_parco/static/css/main.03d6717b.css",
+    "main.js": "/il_parco/static/js/main.b60e47d4.js",
+    "static/js/453.75438100.chunk.js": "/il_parco/static/js/453.75438100.chunk.js",
+    "index.html": "/il_parco/index.html",
+    "main.03d6717b.css.map": "/il_parco/static/css/main.03d6717b.css.map",
+    "main.b60e47d4.js.map": "/il_parco/static/js/main.b60e47d4.js.map",
+    "453.75438100.chunk.js.map": "/il_parco/static/js/453.75438100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d6717b.css",
+    "static/js/main.b60e47d4.js"
+  ]
+}
