@@ -1,0 +1,45 @@
+{
+    "bevande": [
+      {
+        "nome": "Coca Cola",
+        "prezzo": 2.50
+      },
+      {
+        "nome": "Fanta",
+        "prezzo": 2.30
+      },
+      {
+        "nome": "Sprite",
+        "prezzo": 2.20
+      },
+      {
+        "nome": "Acqua Naturale",
+        "prezzo": 1.00
+      },
+      {
+        "nome": "Acqua Frizzante",
+        "prezzo": 1.00
+      },
+      {
+        "nome": "Birra",
+        "prezzo": 3.50
+      },
+      {
+        "nome": "Vino Rosso",
+        "prezzo": 4.00
+      },
+      {
+        "nome": "Vino Bianco",
+        "prezzo": 4.00
+      },
+      {
+        "nome": "Succo d'Arancia",
+        "prezzo": 2.00
+      },
+      {
+        "nome": "Succo di Mela",
+        "prezzo": 2.00
+      }
+    ]
+  }
+  
